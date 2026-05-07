@@ -23,3 +23,16 @@ NLTK Bölümü: word_tokenize ve sent_tokenize fonksiyonlarını kullanarak metn
 Spacy Bölümü: Spacy, daha gelişmiş bir yaklaşım sunar. nlp nesnesi, önceden eğitilmiş Türkçe dil modelini kullanarak metni işler. Bu model, Dr. gibi yaygın kısaltmaları veya 25.08.2025 gibi tarih formatlarını tek bir token olarak algılayabilir. Bu, Spacy'nin daha bağlamsal ve akıllı bir tokenization yaptığının kanıtıdır. Ayrıca token nesnesinin is_punct, is_space gibi özelliklerini inceleyerek her bir token hakkında detaylı bilgi alabilirsiniz.
 
 Karşılaştırma Bölümü: Kodun son kısmı, her iki kütüphanenin çıktılarındaki temel farkları vurgulayarak, hangi kütüphanenin ne zaman daha uygun olabileceğine dair bir fikir verir. Bu karşılaştırmayı doğrudan çıktıları okuyarak yapabilir ve her iki yaklaşımın güçlü ve zayıf yönlerini anlayabilirsiniz.
+
+*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+
+3.Ders : Metin Ön İşleme Teknikleri ve Örnekler
+
+Contractions kütüphanesi, metin içindeki kısaltmaların genişletilmesini sağlar. 
+Stopwords, metin içindeki durma kelimelerini kaldırmak için kullanılan bir arayüz sağlar. 
+Stemming, metin içindeki kelimelerinin kısaltılmasını sağlar.
+Zeyrek, metin içindeki kelimelerinin kısaltılmasını ve küçük harf yapmasını sağlar. 
+
+
+*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
