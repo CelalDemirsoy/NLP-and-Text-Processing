@@ -36,3 +36,15 @@ Zeyrek, metin içindeki kelimelerinin kısaltılmasını ve küçük harf yapmas
 
 
 *********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+4.Ders : BoW ve N-gramlar ile Metin Temsili
+
+Bu kod, metin içindeki kelimelerinin birbirlerine bağlı olarak bir araya getirilmesi için kullanılan metin ön İşleme tekniklerini gösterir. Bu, BoW (Bag of Words) ve N-gramlar ile metin temsili olarak çalışır.
+
+BoW (Bag of Words) ile metin temsili yapmak için, metin içindeki tüm kelimeleri bir araya getirir. Bu, bir metin içindeki tüm kelimelerin birbirlerine bağlı olarak bir araya getirilmesi için kullanılır. BoW, metin içindeki tüm kelimelerin bir araya getirilmesini sağlar.   
+
+
+N-gramlar, metin içindeki tüm kelimelerin birbirlerine bağlı olarak bir araya getirilmesi için kullanılan bir metin ön İşleme teknikidir.  
+                                                                                        
+                                                                                        
+*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
