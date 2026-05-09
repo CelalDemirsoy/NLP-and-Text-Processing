@@ -31,7 +31,7 @@ Karşılaştırma Bölümü: Kodun son kısmı, her iki kütüphanenin çıktıl
 
 Contractions kütüphanesi, metin içindeki kısaltmaların genişletilmesini sağlar. 
 Stopwords, metin içindeki durma kelimelerini kaldırmak için kullanılan bir arayüz sağlar. 
-Stemming, metin içindeki kelimelerinin kısaltılmasını sağlar.
+Stemming, metin içindeki kelimelerinin kısaltılmasını (ek olarak) sağlar.
 Zeyrek, metin içindeki kelimelerinin kısaltılmasını ve küçük harf yapmasını sağlar. 
 
 
@@ -48,3 +48,14 @@ N-gramlar, metin içindeki tüm kelimelerin birbirlerine bağlı olarak bir aray
                                                                                         
                                                                                         
 *********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+5.Ders : TF-IDF ve Word2Vec ile Kelime Önemini Ölçme
+
+Bu kod, TF-IDF ve Word2Vec ile kelime önemini ölçme işlemlerini gösterir. Bu, TF-IDF ve Word2Vec'in kullanımını ve önemini ölçme işlemlerini gösterir.
+
+TF-IDF, metin içindeki tüm kelimelerin birbirlerine bağlı olarak bir araya getirilmesi için kullanılan bir metin ön İşleme teknikidir. TF-IDF, bir metin içindeki tüm kelimelerin birbirlerine bağlı olarak bir araya getirilmesi için kullanılır. TF-IDF, kelimelerin önemini ölçmek için kullanılır.
+
+Word2Vec, metin içindeki tüm kelimelerin birbirlerine bağlı olarak bir araya getirilmesi için kullanılan bir metin ön İşleme teknikidir. Word2Vec, bir metin içindeki tüm kelimelerin birbirlerine bağlı olarak bir araya getirilmesi için kullanılır. Word2Vec, kelimelerin anlamsal vektörlerini üretir.
+
+*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
