@@ -70,3 +70,32 @@ Makine Öğrenmesi ile duygu analizi modelini kullanarak duygu analizi işlemler
 
 
 *********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+ 7.Ders : NLTK ve Spacy ile Karşılaştırmalı POS ve NER Uygulaması
+
+Bu kod, metin içindeki POS ve NER işlemlerini gösterir. Bu, NLTK ve Spacy ile POS ve NER uygulamasını gösterir.
+
+NLTK, her modülün ayrı ayrı nasıl çalıştığını anlamak için harika bir öğrenme aracıdır. SpaCy ise daha çok 'kullanıma hazır' bir çözümdür.
+
+
+*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+8.Ders : RNN ile Makine Öğrenmesi
+
+Bu kod, metin içindeki duygu analizi işlemlerini gösterir. Bu, TextBlob ile duygu analizi, Makine Öğrenmesi ile duygu analizi modelini kullanarak duygu analizi işlemlerini gösterir.
+
+TextBlob, metin içindeki duygu analizi işlemlerini gösterir. 
+
+
+Makine Öğrenmesi ile duygu analizi modelini kullanarak duygu analizi işlemlerini gösterir. 
+
+
+*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************  
+
+9.Ders : Transfer Öğrenme ile Duygu Analizi
+
+Bu kod, metin içindeki duygu analizi işlemlerini gösterir. Bu, TextBlob ile duygu analizi, Makine Öğrenmesi ile duygu analizi modelini kullanarak duygu analizi işlemlerini gösterir.
+
+TextBlob, metin içindeki duygu analizi işlemlerini gösterir. 
+
+
+Makine Öğrenmesi ile duygu analizi modelini kullanarak duygu analizi işlemlerini gösterir.
